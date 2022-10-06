@@ -4,7 +4,7 @@ by Michael Randazzo
 -----
 
 ### General Overview
-(include here description of unit, what class(es) it fits into, when...)
+blah!
 
 ---
 
