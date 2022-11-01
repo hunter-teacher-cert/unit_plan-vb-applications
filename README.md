@@ -31,6 +31,7 @@ List The NY State Computer Science standards you will be covering in this unit. 
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 Programming Language: Visual Basic
 IDE: Visual Studio 2019, Windows Forms App (.Net Framework) 
+
 Google classroom for noncoding assignment. 
 
 ---
@@ -42,9 +43,40 @@ An Introduction to Programming Using: Microsoft Visual Basic 2010
 
 ### Lessons
 Total lenght: 2 Weeks, 10 Lessons
-
-(list each lesson with main topic(s))
-
+#### Day 1: What is an Algorithm?
+  - General process of writing an algorithm
+  - Writing the algorithm for a real world situation
+  - Writing the algorithm for guessing game as a group
+#### Day 2: Guessing Game
+  - Apply algorithm from previous day to create guessing game project
+  - Guessing Game Bonus
+#### Day 3: Letter Grade Algorithm/Code
+  - Create project and read pseudo code for project 
+  - Convert pseudo code to a working project 
+  - Complete parts 1-3
+  - Letter Grade Bonus
+#### Day 4: Alarm System Setup
+  - Get buttons working to type in textbox
+  - Write algorithm for password check
+#### Day 5: Alarm System Project
+  - Write a working version of Alarm System
+  - Alarm System Bonus objectives
+#### Day 6: Group Projects Day 1
+  - Write algorithm for either High-Lo or Dice Game
+  - Begin working on project
+#### Day 7: Group Projects Day 2
+  - Continue working on projects 
+#### Day 8: Group Projects Day 3
+  - Finish group project
+  - Bonus for projects
+  - Presentation/Demo of project
+#### Day 9: Game of Nim Day 1
+  - Write final algorithm for submission
+  - Begin working on project
+#### Day 10: Game of Nim Day 2
+  - Finish working on projects
+  - Project Bonus's
+  - 1 or 2 Demo's
 ---
 
 ### Assesments
